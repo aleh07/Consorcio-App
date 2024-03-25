@@ -1,0 +1,10 @@
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\bin\Release\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\bin\Release\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\bin\Release\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\bin\Release\EASendMail.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\bin\Release\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\obj\Release\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Negocio\obj\Release\Negocio.pdb

@@ -1,0 +1,8 @@
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\bin\Release\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\bin\Release\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\bin\Release\EASendMail.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\obj\Release\Dominio.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\obj\Release\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\ConsorcioApp\Final_Herrera_Fernandez\Dominio\obj\Release\Dominio.pdb
